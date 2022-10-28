@@ -1,0 +1,11 @@
+{
+    "name": "greenbyte",
+    "version": "1.0.0",
+    "description": "",
+    "author": "",
+    "license": "proprietary",
+    "private": true,
+    "workspaces": [
+        "Workspace"
+    ]
+}
